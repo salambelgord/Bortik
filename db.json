@@ -1,13 +1,24 @@
 {
-  "posts": [
+  "profile": [
     {
       "id": 1,
-      "title": "hello"
+      "age": ,
+      "pname": "Boroda",
+      "fname": "Vadim S",
+       "status": "djedai"
+      
+    },
+    {
+      "id": 2,
+      "age": 50 ,
+      "pname": "Dima",
+      "fname": "Dima",
+       "status": "master"
     }
   ],
-  "profile": {
-    "name": "Boroda",
-    "fname": "Vadim S",
+  "tStamp": {
+    "now": 2025,
+    "smena": [1,2,3,4,5],
     "status": "djedai"
   }
 }
